@@ -15,8 +15,9 @@
 <hr>
 <pre>
 💻 I am Java Backend Software Engineer.
-📚 I'm currently studying at TASHKENT INTERNATIONAL UNIVERSITY OF FINANCIAL MANAGEMENT AND TECHNOLOGY
-🌱 I’m currently learning Spring Boot
+📚 I'm currently studying at Tashkent Textile and Light Industry
+👩‍💻 I'm currently working at KDB Bank Uzbekistan
+🌱 I’m currently learning Spring Boot, REST API
 🌟 Main language: Java
 <!-- 🤔 I’m currently open for: this is <a href="http://20.24.103.49:9091/" target="_blank">MY RESUME.</a> -->
 </pre>
