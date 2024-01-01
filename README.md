@@ -51,14 +51,6 @@
   </a>
 &emsp;
 
-### 👉 Frameworks
-<p>
-	<img src="http://img.shields.io/badge/-Spring-6db33f?style=for-the-badge&logo=spring&logoColor=white" />&nbsp;&nbsp;
-	<img src="http://img.shields.io/badge/-Springboot-629e3a?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp;&nbsp;
-
-<!-- 	<img src="" />&nbsp;&nbsp; -->
-</p>
-
 ### 👉 Databases & Cloud Hosting
 <p>
 	<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
@@ -68,33 +60,11 @@
 	<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
  </p>
 
-### 👉 Software & Tools
- <p>
-
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />&nbsp;&nbsp;
-
-<img src="https://img.shields.io/badge/HTML%20-%23F7DF1E.svg?&style=for-the-badge&color=E34F26" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/css%20-%23F7DF1E.svg?&style=for-the-badge&color=5BA8EE" />&nbsp;&nbsp;
-
-
-</p>
 
 
 ### LeetCode Stats Card
 ![LeetCode Stats](https://leetcode.card.workers.dev/nodiracan?theme=unicorn&font=baloo&extension=activity)
 
-### :fire: My Github Stats :
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ElbekKholmatov&" alt="ElbekKholmatov" /></p>
-
-
-   <p align="center">
-          <a href="https://github.com/nodiracan/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=nodiracan&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=nodiracan&theme=gruvbox&hide_border=true" />
-          </a>
-       </p>
 
 <p align="center">
         <a href="https://github.com/nodiracan/">
