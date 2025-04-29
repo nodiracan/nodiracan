@@ -12,9 +12,9 @@
 
 - 💻 Java Backend Developer who codes with a smile.
 - 🎀 Obsessed with clean code *and* cute fonts.
-- 🌱 Currently learning Spring Boot & REST APIs.
+- 🌱 Currently learning Microservices.
 - 🏦 Working at KDB Bank Uzbekistan.
-- ☕ Runs on coffee and pink energy.
+- ☕ Runs on sweets and ramen.
 
 ---
 
