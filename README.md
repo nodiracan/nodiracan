@@ -60,7 +60,8 @@
 ### 🍰 Leetcode
 
 <p align="center">
-  <img src="https://leetcode.card.workers.dev/nodiracan?theme=light&font=baloo&extension=activity" />
+  <img src="https://leetcard.jacoblin.cool/nodiracan?theme=light&font=baloo&ext=activity" />
 </p>
+
 
 <h2 align="center">🎀 Thanks for visiting! Stay sweet! 🎀</h2>
