@@ -23,8 +23,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Java-FFB6C1?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring Boot-FF69B4?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-FADADD?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-FFC0CB?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PL/SQl-FADADD?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ---
